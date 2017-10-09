@@ -58,4 +58,13 @@ the content() : affiche le contenu d'un article
 get_header() : fait un require/include de header.php
 get_footer() : fait un require/include de footer.php
 
-/!\ Ce code constitue la base de chaque template WP. On peutr modifier les templates, ajouter des choses etc... mais la base est là
+/!\ Ce code constitue la base de chaque template WP. On peut modifier les templates, ajouter des choses etc... mais la base est là
+
+
+============================================== CODEX
+
+extensions :
+ultimate-ajax_login
+display widgets
+Créer des cat. pour les restaurants : Paris, Lyon, Marseille, Strasbourg
+Créer des articles de restaurants qui seront classés ds ces cat.
