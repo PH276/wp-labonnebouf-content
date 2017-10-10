@@ -85,9 +85,10 @@ nav li a{
     display: block;
     width: 150px;
 }
-/*nav li a:hover{
+
+nav li a:hover{
     text-decoration: none;
-}*/
+}
 
 .nomDuSite{
     color: #fff;

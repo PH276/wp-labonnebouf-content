@@ -2,6 +2,9 @@
 
 <h1>Accueil</h1>
 
+<?php echo showCategory() ?>
+
+
 <?php if (have_posts()) : ?>
     <?php while (have_posts()) : the_post() ?>
         <!-- debut HTML -->
